@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="TelkomselLoginAPI:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="TelkomselLoginAPI.war">
+      <element id="artifact" artifact-name="TelkomselLoginAPI:war exploded" />
+    </root>
+  </artifact>
+</component>
